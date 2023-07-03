@@ -61,6 +61,7 @@ The project involves the following steps:
 - Training a random forest classifier
 - Evaluating the model's performance
 - Using the trained model to make predictions for new customer data
+  
 
 ## Installation
 
@@ -70,4 +71,30 @@ The project involves the following steps:
    
 2. Install the required dependencies:
   ```bash
-$ pip install -r requirements.txt
+    $ pip install -r requirements.txt
+
+## Usage
+1. Prepare your dataset:
+
+Ensure your dataset is in CSV format.
+Make sure your dataset contains the required columns: Age, Gender, Marital Status, Occupation, Monthly Income, Educational Qualifications, Family size, Pin code, Feedback, and Output.
+
+2. Run the Jupyter Notebook:
+
+```bash
+ $ jupyter notebook
+```
+
+3. Open the Online_Food_Order_Prediction.ipynb notebook and follow the instructions to load and preprocess your dataset, train the model, and make predictions.
+
+
+## Contributing
+Contributions to this project are welcome! If you have suggestions for improvements or find any issues, please feel free to submit a pull request or open an issue.
+
+To contribute to the project, follow these steps:
+
+Fork the repository
+Create a new branch
+Make your changes
+Commit and push your changes
+Submit a pull request
