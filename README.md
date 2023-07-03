@@ -7,7 +7,7 @@ This project is a machine learning model that predicts whether a customer will o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
